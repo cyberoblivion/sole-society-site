@@ -1,6 +1,6 @@
 ---
 title: "First Cleans: Navy Jordan 1 Lows & Grey Dunk Lows"
-subtitle: "Sole Society's first two pairs on the bench — one shoe cleaned, one left as-is, so you can see the difference side by side."
+subtitle: "Sole Society's first two pairs on the bench. One shoe cleaned, one left as-is, so you can see the difference side by side."
 cover: /assets/images/posts/first-clean/navy-aj1-split.jpg
 image: /assets/images/posts/first-clean/navy-aj1-split.jpg
 excerpt: "Our first two pairs on the bench. We cleaned one shoe of each pair and left the other alone so the difference speaks for itself."
@@ -8,7 +8,7 @@ excerpt: "Our first two pairs on the bench. We cleaned one shoe of each pair and
 
 Welcome to Sole Society. For our very first post we pulled two well-worn pairs
 and did something simple: **clean one shoe, leave the other alone**, and put
-them next to each other. No filters, no tricks — just a brush, the right
+them next to each other. No filters, no tricks. Just a brush, the right
 cleaner and some patience.
 
 ## Pair 1: Navy &amp; White Jordan 1 Low
@@ -23,7 +23,7 @@ clean.
 
 The leather came back bright and the navy panels got their depth back.
 
-{% include figure.html src="/assets/images/posts/first-clean/navy-aj1-side.jpg" alt="Side profile of both navy Jordan 1 Lows" caption="Side by side — midsole on the top shoe is cleaned, bottom is not." %}
+{% include figure.html src="/assets/images/posts/first-clean/navy-aj1-side.jpg" alt="Side profile of both navy Jordan 1 Lows" caption="Side by side. The top shoe's midsole is cleaned, the bottom one is not." %}
 
 Outsoles matter too.
 
@@ -34,7 +34,7 @@ Outsoles matter too.
 <span class="badge">Leather / Synthetic</span>
 
 The grey overlays on this pair had turned murky and the white midsole was
-anything but white. Same deal — one cleaned, one untouched.
+anything but white. Same deal: one cleaned, one untouched.
 
 <div class="gallery">
 {% include figure.html src="/assets/images/posts/first-clean/grey-dunk-split.jpg" alt="Grey and black Dunk Lows, left shoe dirty and right shoe cleaned" caption="Left: before. Right: after." %}
@@ -48,4 +48,4 @@ Every pair is cleaned by hand, one panel at a time.
 
 {% include figure.html src="/assets/images/posts/first-clean/at-work.jpg" alt="Calvin cleaning a navy Jordan 1 Low at the kitchen table" caption="Founder &amp; CEO Calvin, hard at work on the Jordans." %}
 
-That's the start. More pairs, more before &amp; afters — stay tuned.
+That's the start. More pairs, more before &amp; afters. Stay tuned.

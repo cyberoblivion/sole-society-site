@@ -1,4 +1,4 @@
-# Sole Society — Shoe Cleaning
+# Sole Society: Shoe Cleaning
 
 Open-source Jekyll site for **Sole Society**, a hand-done sneaker cleaning shop.
 Hosted on GitHub Pages: https://solesociety.cyberoblivion.com/
@@ -38,7 +38,7 @@ bundle exec jekyll serve --livereload
 
 ## Settings
 
-Edit `_config.yml` — set `email`, `instagram`, `tiktok` to show them in the footer.
+Edit `_config.yml` and set `email`, `instagram`, `tiktok` to show them in the footer.
 If you move to a custom domain, set `url` to it, `baseurl` to `""`, and add a `CNAME` file.
 
 ## Deploy setup (one time)
