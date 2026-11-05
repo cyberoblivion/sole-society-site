@@ -46,6 +46,6 @@ anything but white. Same deal — one cleaned, one untouched.
 
 Every pair is cleaned by hand, one panel at a time.
 
-{% include figure.html src="/assets/images/posts/first-clean/at-work.jpg" alt="Cleaning a navy Jordan 1 Low at the kitchen table" caption="Hard at work on the Jordans." %}
+{% include figure.html src="/assets/images/posts/first-clean/at-work.jpg" alt="Calvin cleaning a navy Jordan 1 Low at the kitchen table" caption="Founder &amp; CEO Calvin, hard at work on the Jordans." %}
 
 That's the start. More pairs, more before &amp; afters — stay tuned.
