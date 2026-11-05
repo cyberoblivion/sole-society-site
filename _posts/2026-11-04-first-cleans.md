@@ -49,4 +49,15 @@ Every pair is cleaned by hand, one panel at a time.
 
 {% include figure.html src="/assets/images/posts/first-clean/at-work.jpg" alt="Calvin cleaning a navy Jordan 1 Low at the kitchen table" caption="Founder &amp; CEO Calvin, hard at work on the Jordans." %}
 
+## The drying station
+
+Rushing the dry is how good shoes get ruined, so every pair finishes on the
+**Sole Society Precision Air Drying System&trade;**. Twin towers. Gentle, even
+airflow. Officially branded, as you can see.
+
+Some people might call it a winter boot dryer. We call it proprietary
+technology.
+
+{% include figure.html src="/assets/images/posts/first-clean/drying-station.jpg" alt="The cleaned black and grey Dunks drying upside down on a two-post boot dryer with a Sole Society sticker on the base" caption="The Precision Air Drying System&trade; in action. The sticker adds at least 20% more drying power." %}
+
 That's the start. More pairs, more before &amp; afters. Stay tuned.
