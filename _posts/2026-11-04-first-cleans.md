@@ -1,5 +1,5 @@
 ---
-title: "First Cleans: Navy Jordan 1 Lows & Grey Dunk Lows"
+title: "First Cleans: Navy Jordan 1s and Black & Grey Dunks"
 subtitle: "Sole Society's first two pairs on the bench. One shoe cleaned, one left as-is, so you can see the difference side by side."
 cover: /assets/images/posts/first-clean/navy-aj1-split.jpg
 image: /assets/images/posts/first-clean/navy-aj1-split.jpg
@@ -29,17 +29,18 @@ Outsoles matter too.
 
 {% include figure.html src="/assets/images/posts/first-clean/navy-aj1-soles.jpg" alt="Outsoles of the navy Jordan 1 Lows" caption="Outsoles: left is before, right is after. Grime packs into those tread rings." %}
 
-## Pair 2: Grey &amp; Black Nike Dunk Low
+## Pair 2: Black &amp; Grey Nike Dunk Low
 
 <span class="badge">Leather / Synthetic</span>
 
-The grey overlays on this pair had turned murky and the white midsole was
-anything but white. Same deal: one cleaned, one untouched.
+These are black and grey Dunks. Believe it or not, the left shoe is supposed to
+be black too. Dirt and wear faded it to a dusty grey. Same deal as the Jordans:
+right shoe cleaned, left shoe untouched.
 
 <div class="gallery">
-{% include figure.html src="/assets/images/posts/first-clean/grey-dunk-split.jpg" alt="Grey and black Dunk Lows, left shoe dirty and right shoe cleaned" caption="Left: before. Right: after." %}
-{% include figure.html src="/assets/images/posts/first-clean/grey-dunk-split-close.jpg" alt="Close up of grey and black Dunk Lows before and after" caption="Up close, the grey panels pop again." %}
-{% include figure.html src="/assets/images/posts/first-clean/grey-dunk-side.jpg" alt="Side view of the grey and black Dunk Lows" caption="Side view. The midsole tells the story." %}
+{% include figure.html src="/assets/images/posts/first-clean/black-grey-dunk-split.jpg" alt="Black and grey Dunk Lows, faded dirty left shoe next to cleaned right shoe" caption="Same shoe. Left: before. Right: after." %}
+{% include figure.html src="/assets/images/posts/first-clean/black-grey-dunk-split-close.jpg" alt="Close up of black and grey Dunk Lows before and after" caption="Up close. The black is black again." %}
+{% include figure.html src="/assets/images/posts/first-clean/black-grey-dunk-side.jpg" alt="Side view of the black and grey Dunk Lows" caption="Side view. The midsole tells the story." %}
 </div>
 
 ## Behind the scenes
