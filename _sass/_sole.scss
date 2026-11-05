@@ -36,42 +36,6 @@ h3 { font-size: 1.6rem; }
 .skip { position: absolute; left: -9999px; }
 .skip:focus { left: 16px; top: 16px; background: var(--blue); color: #000; padding: 8px 12px; z-index: 10; }
 
-/* header */
-.site-header { border-bottom: 1px solid var(--line); background: rgba(5,7,10,.9); position: sticky; top: 0; z-index: 5; backdrop-filter: blur(8px); }
-.header-inner { display: flex; align-items: center; justify-content: space-between; gap: 16px; padding: 8px 0; flex-wrap: wrap; }
-.brand img { width: 84px; height: auto; mix-blend-mode: lighten; }
-.site-nav { display: flex; gap: 4px 20px; flex-wrap: wrap; }
-.site-nav a { color: var(--text); text-decoration: none; font-weight: 500; font-size: .95rem; padding: 6px 0; border-bottom: 2px solid transparent; }
-.site-nav a:hover, .site-nav a[aria-current] { border-color: var(--blue); color: #fff; }
-
-/* hero */
-.hero {
-  text-align: center;
-  padding: 48px 0 64px;
-  background:
-    radial-gradient(ellipse at 50% 30%, rgba(30,155,255,.22), transparent 60%),
-    var(--bg);
-}
-.hero img { width: min(560px, 100%); margin: 0 auto; mix-blend-mode: lighten; }
-.hero p { font-size: 1.2rem; color: var(--muted); max-width: 36ch; margin: 8px auto 28px; }
-.btn {
-  display: inline-block; text-decoration: none; font-weight: 700;
-  background: var(--blue); color: #001427; padding: 14px 28px; border-radius: 999px;
-  box-shadow: 0 0 0 0 rgba(30,155,255,.5); transition: box-shadow .2s, transform .2s;
-}
-.btn:hover { color: #001427; transform: translateY(-1px); box-shadow: 0 0 24px 2px rgba(30,155,255,.45); }
-.btn-ghost { background: transparent; color: var(--text); border: 1px solid var(--line); margin-left: 8px; }
-.btn-ghost:hover { color: #fff; border-color: var(--blue); }
-
-/* sections */
-.section { padding: 56px 0; }
-.section-alt { background: var(--bg-2); border-block: 1px solid var(--line); }
-.section h2 { margin-top: 0; }
-.steps { display: grid; grid-template-columns: repeat(auto-fit, minmax(220px, 1fr)); gap: 20px; list-style: none; padding: 0; margin: 0; counter-reset: step; }
-.steps li { background: var(--card); border: 1px solid var(--line); border-radius: var(--radius); padding: 22px; counter-increment: step; }
-.steps li::before { content: counter(step, decimal-leading-zero); font-family: var(--display); font-size: 2.4rem; color: var(--blue); display: block; line-height: 1; margin-bottom: 8px; }
-.steps strong { display: block; font-size: 1.05rem; margin-bottom: 4px; }
-.steps p { margin: 0; color: var(--muted); }
 
 /* cards */
 .cards { display: grid; grid-template-columns: repeat(auto-fill, minmax(280px, 1fr)); gap: 24px; }
