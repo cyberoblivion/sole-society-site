@@ -1,14 +1,14 @@
 # Sole Society — Shoe Cleaning
 
 Open-source Jekyll site for **Sole Society**, a hand-done sneaker cleaning shop.
-Hosted on GitHub Pages: https://cyberoblivion.github.io/sole-society-site/
+Hosted on GitHub Pages: https://solesociety.cyberoblivion.com/
 
 ## Run locally
 
 ```sh
 bundle install
 bundle exec jekyll serve --livereload
-# open http://localhost:4000/sole-society-site/
+# open http://localhost:4000/
 ```
 
 ## Add a before & after post
