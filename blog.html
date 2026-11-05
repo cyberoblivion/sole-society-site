@@ -1,0 +1,14 @@
+---
+layout: default
+title: Before & After
+permalink: /blog/
+---
+<section class="wrap page">
+  <h1 class="page-title">Before &amp; After</h1>
+  <p class="lede">Every pair that comes through the shop.</p>
+  <div class="cards">
+    {% for post in site.posts %}
+      {% include post-card.html post=post %}
+    {% endfor %}
+  </div>
+</section>

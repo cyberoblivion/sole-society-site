@@ -1,0 +1,35 @@
+---
+layout: default
+title: Home
+---
+<section class="hero">
+  <div class="wrap">
+    <h1 class="skip">{{ site.title }} — {{ site.tagline }}</h1>
+    <img src="{{ '/assets/images/logo.png' | relative_url }}" alt="Sole Society Shoe Cleaning" width="600" height="480">
+    <p>Tired kicks in. Fresh kicks out. Hand-cleaned, one pair at a time.</p>
+    <a class="btn" href="{{ '/blog/' | relative_url }}">See the results</a>
+    <a class="btn btn-ghost" href="{{ '/services/' | relative_url }}">Services</a>
+  </div>
+</section>
+
+<section class="section section-alt">
+  <div class="wrap">
+    <h2>How it works</h2>
+    <ol class="steps">
+      <li><strong>Drop off</strong><p>Bring your pair in and tell us what's bugging you — scuffs, stains, yellowing, grime.</p></li>
+      <li><strong>Deep clean</strong><p>Laces out, uppers, midsoles and outsoles scrubbed by hand with shoe-safe cleaners.</p></li>
+      <li><strong>Pick up fresh</strong><p>Dried, laced back up, and ready to wear. Before &amp; after photos included.</p></li>
+    </ol>
+  </div>
+</section>
+
+<section class="section">
+  <div class="wrap">
+    <h2>Latest from the bench</h2>
+    <div class="cards">
+      {% for post in site.posts limit:6 %}
+        {% include post-card.html post=post %}
+      {% endfor %}
+    </div>
+  </div>
+</section>

@@ -1,0 +1,40 @@
+title: Sole Society
+tagline: Shoe Cleaning
+description: >-
+  Sole Society brings tired sneakers back to life. Deep cleans, sole
+  restoration, and before & after results from the bench.
+url: "https://cyberoblivion.github.io"
+baseurl: "/sole-society-site"
+lang: en
+logo: /assets/images/logo.png
+
+# Contact / socials — fill in when ready (leave blank to hide)
+email: ""
+instagram: ""
+tiktok: ""
+
+permalink: /:year/:month/:day/:title/
+timezone: America/New_York
+
+markdown: kramdown
+sass:
+  style: compressed
+
+plugins:
+  - jekyll-feed
+  - jekyll-seo-tag
+  - jekyll-sitemap
+
+defaults:
+  - scope: { path: "", type: posts }
+    values: { layout: post }
+  - scope: { path: "" }
+    values: { image: /assets/images/og-image.png }
+
+exclude:
+  - README.md
+  - LICENSE
+  - Gemfile
+  - Gemfile.lock
+  - vendor
+  - .github

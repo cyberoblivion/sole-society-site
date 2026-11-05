@@ -1,0 +1,16 @@
+<footer class="site-footer">
+  <div class="wrap footer-inner">
+    <div>
+      <strong class="footer-title">{{ site.title }}</strong>
+      <span class="muted">{{ site.tagline }}</span>
+    </div>
+    <ul class="footer-links">
+      {% if site.email != "" %}<li><a href="mailto:{{ site.email }}">Email</a></li>{% endif %}
+      {% if site.instagram != "" %}<li><a href="https://instagram.com/{{ site.instagram }}">Instagram</a></li>{% endif %}
+      {% if site.tiktok != "" %}<li><a href="https://tiktok.com/@{{ site.tiktok }}">TikTok</a></li>{% endif %}
+      <li><a href="{{ '/feed.xml' | relative_url }}">RSS</a></li>
+      <li><a href="https://github.com/cyberoblivion/sole-society-site">Source</a></li>
+    </ul>
+    <p class="muted small">&copy; {{ 'now' | date: '%Y' }} {{ site.title }}. Site code is open source (MIT).</p>
+  </div>
+</footer>
