@@ -13,6 +13,9 @@ email: ""
 instagram: ""
 tiktok: ""
 
+# Google Analytics 4 measurement ID (G-XXXXXXXXXX). Only loads in production builds.
+google_analytics: "G-RFQ73R7HJL"
+
 permalink: /:year/:month/:day/:title/
 timezone: America/New_York
 
